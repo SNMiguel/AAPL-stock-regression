@@ -11,6 +11,14 @@ Finally, it visualizes the actual vs. predicted stock prices.
 - Plots actual vs predicted prices for visualization
 
 
+## 📦 Requirements
+
+Install the dependencies with:
+
+```bash
+pip install -r requirements.txt
+
+
 ## 🛠️ Installation
 
 Clone the repository:
