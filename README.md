@@ -3,7 +3,6 @@ This project demonstrates how to build a simple stock price prediction model usi
 It fetches historical stock data for Apple (AAPL) using `yfinance`, trains a regression model, and evaluates it using **Mean Absolute Error (MAE)** and **Mean Squared Error (MSE)**.  
 Finally, it visualizes the actual vs. predicted stock prices.
 
----
 
 ## 🚀 Features
 - Downloads Apple (AAPL) stock data using `yfinance`
@@ -11,7 +10,6 @@ Finally, it visualizes the actual vs. predicted stock prices.
 - Evaluates model accuracy with MAE & MSE
 - Plots actual vs predicted prices for visualization
 
----
 
 ## 🛠️ Installation
 
