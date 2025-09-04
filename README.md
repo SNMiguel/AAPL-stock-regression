@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ## 🎥 Demo
 
-Here’s a quick look at the Weather Forecast App in action:
+Here’s a quick look at the AAPL stock regression in action:
 
 <p align="center">
   <img src="https://i.imgur.com/6Om1Y4Y.gif" alt="AAPL-Stock-regression" width="600"/>
