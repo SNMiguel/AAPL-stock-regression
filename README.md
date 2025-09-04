@@ -24,7 +24,7 @@ pip install -r requirements.txt
 Here’s a quick look at the Weather Forecast App in action:
 
 <p align="center">
-  <img src="https://imgur.com/a/venY5X2" alt="Weather App Demo" width="600"/>
+  <img src="https://i.imgur.com/6Om1Y4Y.gif" alt="Weather App Demo" width="600"/>
 </p>
 
 
