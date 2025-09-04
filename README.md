@@ -19,6 +19,15 @@ Install the dependencies with:
 pip install -r requirements.txt
 ```
 
+## 🎥 Demo
+
+Here’s a quick look at the Weather Forecast App in action:
+
+<p align="center">
+  <img src="https://imgur.com/a/venY5X2" alt="Weather App Demo" width="600"/>
+</p>
+
+
 ## 🛠️ Installation
 
 Clone the repository:
